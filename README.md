@@ -13,4 +13,5 @@ This is the final images of the website with the amendments I made. I had refact
 
 ## Contact
 
-Github URL:
+Github URL: https://github.com/dirie93/Horiseon-Code-Refactor
+Deployed URL:
